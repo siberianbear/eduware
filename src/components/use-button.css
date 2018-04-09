@@ -1,0 +1,55 @@
+.use-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    height: 70px;
+    /* выравнивание по вертикали, хак. должно быть эквивалентно height элемента */
+    /* line-height:70px; */
+    color: #333;
+    background: rgb(221, 221, 221);
+    font-weight: 700;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    padding-top: 10px;
+    animation: hoverEffectReverse .3s cubic-bezier(0.075, 0.82, 0.165, 1) 1 forwards;
+    /* animation: hoverEffect .3s cubic-bezier(0.075, 0.82, 0.165, 1) 1 reverse; */
+}
+
+.use-button.active, .use-button.active.inprocess {
+    color: white;
+    text-shadow: 0 0 3px black;
+}
+
+.use-button.active {background-color: #18961A}
+
+.use-button.active.inprocess {background-color: goldenrod}
+
+.use-button-status {
+    font-size: 12px;
+    color: #E7F513;
+}
+
+.use-button:hover {
+    animation: hoverEffect .3s cubic-bezier(0.075, 0.82, 0.165, 1) 1 forwards;
+}
+  
+@keyframes hoverEffect {
+    /* from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); } */
+    from {transform: scale(1,1)}
+    to {transform: scale(1.1,1.1)}
+}
+
+@keyframes hoverEffectReverse {
+    /* from { transform: rotate(-90deg)};
+    to { transform: rotate(90deg)}; */
+    from {transform: scale(1.1,1.1)}
+    to {transform: scale(1,1)}
+}
+
+.none {
+    visibility: hidden;
+}
