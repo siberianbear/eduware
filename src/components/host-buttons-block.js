@@ -21,6 +21,16 @@ class HostButtonsBlock extends Component {
     
   }
 
+  componentWillReceiveProps () {
+    // console.log(this.props.call2ButtonsFromParent.bttn1);
+    // console.table(this.props.call2ButtonsFromParent);
+    this.setState({bttn1State: this.props.call2ButtonsFromParent.bttn1});
+    this.setState({bttn2State: this.props.call2ButtonsFromParent.bttn2});
+    this.setState({bttn3State: this.props.call2ButtonsFromParent.bttn3});
+    this.setState({bttn4State: this.props.call2ButtonsFromParent.bttn4});
+  }
+  
+
   // buttonOnClick (target, state1) {
   buttonOnClick (theBttn) {
     
@@ -29,10 +39,11 @@ class HostButtonsBlock extends Component {
     switch(theBttn) {
       case "clicker":
         !this.state.bttn1State ? this.setState({bttn1State: true}) : this.setState({bttn1State: false});
-        // console.log(target + ": " + this.state.bttn1State);
+        this.props.callToParentScreen(theBttn);
         break;
       case "web":
         !this.state.bttn2State ? this.setState({bttn2State: true}) : this.setState({bttn2State: false});
+        this.props.callToParentScreen(theBttn);
         break;
       case "mouse":
         !this.state.bttn3State ? this.setState({bttn3State: true}) : this.setState({bttn3State: false});
@@ -48,16 +59,20 @@ class HostButtonsBlock extends Component {
     // console.log(target + ": " + this.state.bttn1State);
     // this.setState({bttn3State: true});
   }
-
-  componentDidMount() {
-
-  }
-
-  componentWillUnmount() {
-
+  
+  changeState() {
+    this.setState({bttn1State: this.props.call2ButtonsFromParent.bttn1});
+    this.setState({bttn2State: this.props.call2ButtonsFromParent.bttn2});
+    this.setState({bttn3State: this.props.call2ButtonsFromParent.bttn3});
+    this.setState({bttn4State: this.props.call2ButtonsFromParent.bttn4});
   }
 
   render() {
+
+    // console.log(this.props.call2ButtonsFromParent);
+    // this.changeState();
+
+
     return (
         <div id="host-buttons-block">
 

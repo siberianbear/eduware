@@ -46,26 +46,28 @@ class ParticipantsButtonsBlock extends Component {
 
   render() {
     return (
-        <div id="host-buttons-block">
+        <div id="participant-buttons-block">
 
-          <div id="host-buttons-block-header">Participants will response using...</div>
+          <div id="participant-buttons-block-header">Participants will response using...</div>
 
-          <div id="host-buttons-row">
-            <div className="host-button-item">
+          <div id="participant-buttons-row">
+            <div className="participant-button-item">
               <UseBttn status={this.state.bttn1State} bttnTitle="clicker" onSelect={this.buttonOnClick} />
-              <div className="host-button-item-description">
+              <div className="participant-button-item-description">
                 Use a clicker that's connected to this computer
               </div>
             </div>
-            <div className="host-button-item">
+            <div className="participant-button-item plus">+</div>
+            <div className="participant-button-item">
               <UseBttn status={this.state.bttn2State} bttnTitle="web" onSelect={this.buttonOnClick} />
-              <div className="host-button-item-description">
+              <div className="participant-button-item-description">
                 Use an iPhone, Kindle, Laptop and other web devices
               </div>
             </div>
-            <div className="host-button-item">
+            <div className="participant-button-item plus">+</div>
+            <div className="participant-button-item">
               <UseBttn status={this.state.bttn3State} bttnTitle="virtual" onSelect={this.buttonOnClick} />
-              <div className="host-button-item-description">
+              <div className="participant-button-item-description">
                 Use a virtual clicker to simulate the experience
               </div>
             </div>
