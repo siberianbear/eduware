@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.84989fd2.css",
-  "main.css.map": "static/css/main.84989fd2.css.map",
-  "main.js": "static/js/main.e2019ee1.js",
-  "main.js.map": "static/js/main.e2019ee1.js.map",
+  "main.css": "static/css/main.f1ec4930.css",
+  "main.css.map": "static/css/main.f1ec4930.css.map",
+  "main.js": "static/js/main.ac07c1c9.js",
+  "main.js.map": "static/js/main.ac07c1c9.js.map",
   "static\\media\\bttn_1a.svg": "static/media/bttn_1a.eee4b235.svg",
   "static\\media\\bttn_2b.svg": "static/media/bttn_2b.cfe8e27a.svg",
   "static\\media\\bttn_3c.svg": "static/media/bttn_3c.dc97c2c3.svg",
@@ -19,8 +19,7 @@
   "static\\media\\bttn_left.svg": "static/media/bttn_left.7160f953.svg",
   "static\\media\\bttn_right.svg": "static/media/bttn_right.f6531d14.svg",
   "static\\media\\bttn_up.svg": "static/media/bttn_up.d65d853c.svg",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
   "static\\media\\skin-default.png": "static/media/skin-default.559b0e43.png",
-  "static\\media\\skin-large.png": "static/media/skin-large.db88e297.png",
+  "static\\media\\skin-large.svg": "static/media/skin-large.4f606fe9.svg",
   "static\\media\\skin-mini.png": "static/media/skin-mini.0363d2fc.png"
 }
