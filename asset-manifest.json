@@ -1,9 +1,9 @@
 {
-  "main.css": "/eduware/static/css/main.3c4063a2.chunk.css",
-  "main.js": "/eduware/static/js/main.45b7e7ed.chunk.js",
-  "main.js.map": "/eduware/static/js/main.45b7e7ed.chunk.js.map",
-  "static/js/1.cd477dea.chunk.js": "/eduware/static/js/1.cd477dea.chunk.js",
-  "static/js/1.cd477dea.chunk.js.map": "/eduware/static/js/1.cd477dea.chunk.js.map",
+  "main.css": "/eduware/static/css/main.4f36fbb3.chunk.css",
+  "main.js": "/eduware/static/js/main.5afe1e7f.chunk.js",
+  "main.js.map": "/eduware/static/js/main.5afe1e7f.chunk.js.map",
+  "static/js/1.a51fa783.chunk.js": "/eduware/static/js/1.a51fa783.chunk.js",
+  "static/js/1.a51fa783.chunk.js.map": "/eduware/static/js/1.a51fa783.chunk.js.map",
   "runtime~main.js": "/eduware/static/js/runtime~main.d44e5244.js",
   "runtime~main.js.map": "/eduware/static/js/runtime~main.d44e5244.js.map",
   "static/media/bttn_3c.svg": "/eduware/static/media/bttn_3c.dc97c2c3.svg",
@@ -27,8 +27,8 @@
   "static/media/skin-large.svg": "/eduware/static/media/skin-large.4f606fe9.svg",
   "static/media/bttn_e.svg": "/eduware/static/media/bttn_e.7d25e30f.svg",
   "static/media/bttn_f.svg": "/eduware/static/media/bttn_f.390fd009.svg",
-  "static/css/main.3c4063a2.chunk.css.map": "/eduware/static/css/main.3c4063a2.chunk.css.map",
+  "static/css/main.4f36fbb3.chunk.css.map": "/eduware/static/css/main.4f36fbb3.chunk.css.map",
   "index.html": "/eduware/index.html",
-  "precache-manifest.e4bd50ca190b1dfb556fd65dd000b54b.js": "/eduware/precache-manifest.e4bd50ca190b1dfb556fd65dd000b54b.js",
+  "precache-manifest.e851411fdd0b833d8a5b800ac0d70f54.js": "/eduware/precache-manifest.e851411fdd0b833d8a5b800ac0d70f54.js",
   "service-worker.js": "/eduware/service-worker.js"
 }

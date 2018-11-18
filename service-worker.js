@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/eduware/precache-manifest.e4bd50ca190b1dfb556fd65dd000b54b.js"
+  "/eduware/precache-manifest.e851411fdd0b833d8a5b800ac0d70f54.js"
 );
 
 workbox.clientsClaim();
