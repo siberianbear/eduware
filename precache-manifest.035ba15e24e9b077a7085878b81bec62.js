@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "2ca00727da0ababff246",
-    "url": "/eduware/static/css/main.98024e43.chunk.css"
+    "revision": "5bfb52ac89e1b399e066",
+    "url": "/eduware/static/css/main.6fc17fd2.chunk.css"
   },
   {
-    "revision": "2ca00727da0ababff246",
-    "url": "/eduware/static/js/main.2ca00727.chunk.js"
+    "revision": "5bfb52ac89e1b399e066",
+    "url": "/eduware/static/js/main.5bfb52ac.chunk.js"
   },
   {
-    "revision": "2ca3a85b5d7c9d9095ea",
-    "url": "/eduware/static/js/1.2ca3a85b.chunk.js"
+    "revision": "0f9a1d8c40b071ccecb3",
+    "url": "/eduware/static/js/1.0f9a1d8c.chunk.js"
   },
   {
     "revision": "d44e5244875d76b544a7",
@@ -20,20 +20,12 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_a.c09e5c8e.svg"
   },
   {
-    "revision": "dc97c2c3cfe5ccf683076124559e6e8f",
-    "url": "/eduware/static/media/bttn_c.dc97c2c3.svg"
-  },
-  {
     "revision": "cfe8e27ad1ac8b4d01f2daeca99f5e1a",
     "url": "/eduware/static/media/bttn_b.cfe8e27a.svg"
   },
   {
-    "revision": "3df1b57ce88dfb57612624bf7e480377",
-    "url": "/eduware/static/media/bttn_d.3df1b57c.svg"
-  },
-  {
-    "revision": "390fd0094eb5605e0cadd4ddb0bbfe18",
-    "url": "/eduware/static/media/bttn_f.390fd009.svg"
+    "revision": "dc97c2c3cfe5ccf683076124559e6e8f",
+    "url": "/eduware/static/media/bttn_c.dc97c2c3.svg"
   },
   {
     "revision": "7d25e30ffb284666b9d6134991a5f2ef",
@@ -48,16 +40,24 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_right.f6531d14.svg"
   },
   {
-    "revision": "559b0e4346fdd5ddeb6dd786c575d93b",
-    "url": "/eduware/static/media/skin-default.559b0e43.png"
-  },
-  {
     "revision": "d65d853cfb096b0658ac5c0dc44cb648",
     "url": "/eduware/static/media/bttn_up.d65d853c.svg"
   },
   {
     "revision": "62812110d90166c00ba81618c2ab0999",
     "url": "/eduware/static/media/bttn_down.62812110.svg"
+  },
+  {
+    "revision": "3df1b57ce88dfb57612624bf7e480377",
+    "url": "/eduware/static/media/bttn_d.3df1b57c.svg"
+  },
+  {
+    "revision": "390fd0094eb5605e0cadd4ddb0bbfe18",
+    "url": "/eduware/static/media/bttn_f.390fd009.svg"
+  },
+  {
+    "revision": "559b0e4346fdd5ddeb6dd786c575d93b",
+    "url": "/eduware/static/media/skin-default.559b0e43.png"
   },
   {
     "revision": "c09e5c8ef1c91d9b4c48572907f1062d",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/tempo_full_keyboard.b6a004cb.png"
   },
   {
-    "revision": "092cac0afc2316a4b85a80c729064a15",
+    "revision": "6395c3d29aef09eff894ebb14259fb80",
     "url": "/eduware/index.html"
   }
 ];
