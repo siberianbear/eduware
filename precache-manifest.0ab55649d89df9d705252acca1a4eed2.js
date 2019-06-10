@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49f2c8ce18d3ffb5847f",
+    "revision": "eaa4188dd6a275bdde75",
     "url": "/eduware/static/css/main.8a58edc6.chunk.css"
   },
   {
-    "revision": "49f2c8ce18d3ffb5847f",
-    "url": "/eduware/static/js/main.4628440b.chunk.js"
+    "revision": "eaa4188dd6a275bdde75",
+    "url": "/eduware/static/js/main.8de28552.chunk.js"
   },
   {
     "revision": "6558f240761cd152de71",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/tempo_full_keyboard.b6a004cb.png"
   },
   {
-    "revision": "89b3f1e90c11a0797befd3fcb1f542ea",
+    "revision": "686cd88e5e816d3c41e75a8998f0e561",
     "url": "/eduware/index.html"
   }
 ];
