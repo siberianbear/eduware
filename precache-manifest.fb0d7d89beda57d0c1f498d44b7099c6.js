@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d6e24e762861c6af71b3",
-    "url": "/eduware/static/css/main.880572b9.chunk.css"
+    "revision": "3df1b57ce88dfb57612624bf7e480377",
+    "url": "/eduware/static/media/bttn_4d.3df1b57c.svg"
   },
   {
-    "revision": "d6e24e762861c6af71b3",
-    "url": "/eduware/static/js/main.14fef892.chunk.js"
+    "revision": "ec92232bf320e13b10eb",
+    "url": "/eduware/static/css/main.20f8fe74.chunk.css"
   },
   {
     "revision": "6558f240761cd152de71",
     "url": "/eduware/static/js/runtime~main.c13bfe13.js"
   },
   {
-    "revision": "58a3095a24ca92b19cbc",
-    "url": "/eduware/static/js/2.69f833ee.chunk.js"
+    "revision": "4e5927ba6a7c70db32e4",
+    "url": "/eduware/static/js/2.f9d3cdf9.chunk.js"
   },
   {
     "revision": "c09e5c8ef1c91d9b4c48572907f1062d",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_down.62812110.svg"
   },
   {
-    "revision": "3df1b57ce88dfb57612624bf7e480377",
-    "url": "/eduware/static/media/bttn_d.3df1b57c.svg"
-  },
-  {
     "revision": "390fd0094eb5605e0cadd4ddb0bbfe18",
     "url": "/eduware/static/media/bttn_f.390fd009.svg"
+  },
+  {
+    "revision": "3df1b57ce88dfb57612624bf7e480377",
+    "url": "/eduware/static/media/bttn_d.3df1b57c.svg"
   },
   {
     "revision": "559b0e4346fdd5ddeb6dd786c575d93b",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_3c.dc97c2c3.svg"
   },
   {
-    "revision": "3df1b57ce88dfb57612624bf7e480377",
-    "url": "/eduware/static/media/bttn_4d.3df1b57c.svg"
+    "revision": "ec92232bf320e13b10eb",
+    "url": "/eduware/static/js/main.fb82dec2.chunk.js"
   },
   {
     "revision": "7d25e30ffb284666b9d6134991a5f2ef",
@@ -140,7 +140,11 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/tempo_full_keyboard.b6a004cb.png"
   },
   {
-    "revision": "09187823ee0402605bcdbc02b3e9a622",
+    "revision": "a18a2cd8d30ac3575b46a5590945c6cc",
+    "url": "/eduware/static/media/loader.a18a2cd8.gif"
+  },
+  {
+    "revision": "e97a57478d4663cd59d263480fe8959a",
     "url": "/eduware/index.html"
   }
 ];
