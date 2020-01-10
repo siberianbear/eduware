@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_6f.390fd009.svg"
   },
   {
-    "revision": "31422f80d1bbbdae0b4e",
+    "revision": "73e9685c5f21cce74058",
     "url": "/eduware/static/css/main.87bab5bb.chunk.css"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/bttn_5e.7d25e30f.svg"
   },
   {
-    "revision": "31422f80d1bbbdae0b4e",
-    "url": "/eduware/static/js/main.a2733eaf.chunk.js"
+    "revision": "73e9685c5f21cce74058",
+    "url": "/eduware/static/js/main.dc437ce4.chunk.js"
   },
   {
     "revision": "0363d2fc443bfc831b6c3b1420e5c2d1",
@@ -144,7 +144,7 @@ self.__precacheManifest = [
     "url": "/eduware/static/media/loader.a18a2cd8.gif"
   },
   {
-    "revision": "2ff6ff9b8a23006be9b4e9959c13856c",
+    "revision": "3c4324e178ac11abbbeb00b84ae933ef",
     "url": "/eduware/index.html"
   }
 ];
